@@ -16,7 +16,7 @@ namespace IObit_Unlocker_CSharp
             //installs enables and starts the driver
                                 
             
-            //if (!File.Exists(DriverPath))            here <------------------|
+            //if (!File.Exists("IObitUnlocker.sys"))            here <------------------|
             //{                                                                |
             //    Console.WriteLine("IObitUnlocker.sys does not exist.");      |
             //    return;                                                      |
