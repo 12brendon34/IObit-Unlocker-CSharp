@@ -1,2 +1,4 @@
 # IObit Unlocker CSharp
- Use the IObit Unlocker Driver In C#
+Implementes the IObit Unlocker Driver Service in C#
+
+Requires IObit Unlocker Driver file ("IObitUnlocker.sys")
