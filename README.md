@@ -2,8 +2,8 @@
 Implementes the IObit Unlocker Driver Service in C#
 
 Originally Based On
-[theevilbit's CVE-2020-14974 & CVE-2020-14975 - IOBit Unlocker 1.1.2 - Local Privilege Escalation]
-(https://theevilbit.github.io/posts/iobit_unlocker_lpe)
+
+[theevilbit's CVE-2020-14974 & CVE-2020-14975 - IOBit Unlocker 1.1.2 - Local Privilege Escalation](https://theevilbit.github.io/posts/iobit_unlocker_lpe)
 
 Requires IObit Unlocker Driver file ("IObitUnlocker.sys")
 
